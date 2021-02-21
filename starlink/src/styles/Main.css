@@ -1,0 +1,18 @@
+.main {
+    position: relative; /*是指相对位置，把main设置为用于后面比较的相对位置*/
+    height: 760px;
+}
+
+.left-side {
+    position: absolute;/*left-side是以main为相对位置的绝对位置*/
+    top: 0;
+    left: 0;
+    height: 760px;
+    width: 420px;
+    padding: 20px;
+}
+
+.right-side {
+    margin-left: 420px;
+    height: 760px;
+}

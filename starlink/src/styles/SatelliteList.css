@@ -1,0 +1,30 @@
+.sat-list-btn {
+    text-transform: none;
+    padding: 10px 36px;
+    background-color: #1890ff;
+    font-size: 1em;
+    color: #fff;
+}/*有这一段吗*/
+
+.sat-list-box {
+    border: 2px solid #ccc;
+    height: 380px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.sat-list {
+    height: 300px;
+    overflow: scroll;
+}
+
+.spin-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 335px;
+}
